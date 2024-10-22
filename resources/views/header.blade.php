@@ -9,7 +9,8 @@
   <style>
     /* Custom gradient for the navbar */
     .navbar-gradient {
-      background: linear-gradient(135deg, rgba(0,123,255,1) 50%,yellow 50%);
+      /* background: linear-gradient(135deg, rgba(0,123,255,1) 50%,yellow 50%); */
+      background-color: green;
     }
   </style>
 </head>
